@@ -11,11 +11,11 @@ sudo apt-get install binutils-doc
 sudo apt-get install cpp-doc 
 sudo apt-get install gcc-4.1-doc 
 sudo apt-get install gcc-doc 
-sudo apt-get install glibc-doc 
+sudo apt-get install glibc-doc lrzsz
 sudo apt-get install libstdc++6-4.1-doc 
 sudo apt-get install stl-manual 
 sudo apt-get install cpp-4.1-doc 
-sudo apt-get install manpages 
+sudo apt-get install manpages
 sudo apt-get install manpages-dev 
 sudo apt-get install openjdk-7-jdk 
 sudo apt-get install openjdk-7-jre
@@ -30,6 +30,7 @@ sudo apt-get install libtool autogen
 sudo apt-get install indent vim git
 sudo apt-get install mercurial cvs
 sudo apt-get install subversion
+sudo apt-get install ruby python
 
 
 

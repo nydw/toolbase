@@ -30,9 +30,9 @@ sudo apt-get install libtool autogen -y
 sudo apt-get install indent vim git -y
 sudo apt-get install ctags id-utils -y
 sudo apt-get install mercurial cvs -y
+sudo apt-get install sublime-text -y
 sudo apt-get install subversion -y
 sudo apt-get install cscope sed -y
-
 
 
 
